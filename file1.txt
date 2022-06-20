@@ -5,5 +5,3 @@ this is line4 of file1
 
 this is line5 of file1
 this is line6 of file1
-this is line7 of file1
-this is line8 of file1
