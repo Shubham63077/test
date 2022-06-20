@@ -2,3 +2,6 @@ this is line1 of file1
 this is line2 of file1
 this is line3 of file1
 this is line4 of file1
+
+this is line5 of file1
+this is line6 of file1
